@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  /*height: 100vh;*/
+  /*width: 100vw;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hello-world{
+  font-size: 4rem;
+}
+
+.App button{
+  margin: 4rem;
+  font-size: 2rem;
+}
